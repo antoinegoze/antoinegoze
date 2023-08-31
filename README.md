@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-<h3 align="center">I'm a Cloud Analytics Engineer from France 🇫🇷</h3>
+<h3 align="center">I'm a Cloud Engineer from France 🇫🇷</h3>
 
 - 🏗 Profile in construction
 - 📫 How to reach me: **antoinegoze@protonmail.com**
