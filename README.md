@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🌍 Based in Amsterdam, previously worked in Paris 🇫🇷, Dublin 🇮🇪
+- 🌍 Based in Amsterdam 🇳🇱, previously worked in Paris 🇫🇷, Dublin 🇮🇪
 - 🏗 Building and scaling **cloud platforms, AI/ML infrastructure, and distributed systems**  
 - 🤝 Experienced in **customer-facing support, solution architecture, and technical leadership**  
 - 🔭 Currently working at **Nebius AI** on HPC clusters, GPU workloads, Kubernetes, and data platforms  
