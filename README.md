@@ -3,8 +3,8 @@
 
 ---
 
-### 🚀 About Me
-- 🌍 Based in Amsterdam, originally from France 🇫🇷  
+### About Me
+- 🌍 Based in Amsterdam, previously worked in Paris 🇫🇷, Dublin 🇮🇪
 - 🏗 Building and scaling **cloud platforms, AI/ML infrastructure, and distributed systems**  
 - 🤝 Experienced in **customer-facing support, solution architecture, and technical leadership**  
 - 🔭 Currently working at **Nebius AI** on HPC clusters, GPU workloads, Kubernetes, and data platforms  
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔑 Highlight Projects
+### Highlight Projects
 - [**ai-infra-reference-architecture**](#) → End-to-end setup for distributed AI training (Ray + Slurm + Kubernetes)  
 - [**cloud-secure-baseline**](#) → Terraform modules + policies for multi-cloud secure deployments  
 - [**etl-data-pipeline**](#) → Streaming pipeline with Kafka, Spark, and dbt for analytics  
@@ -22,19 +22,11 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 | Cloud | Data & AI | Infra & DevOps | Programming |
 |-------|-----------|----------------|-------------|
-| AWS, GCP, Azure, OpenStack | Spark, Kafka, Flink, Airflow, dbt, MongoDB, Postgres | Kubernetes, Docker, Terraform, Ansible, Prometheus, Grafana, Jenkins, ArgoCD | Python, Java, JavaScript, Bash |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoinegoze&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinegoze&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
+| AWS, GCP, Azure, OCI, Nebius, MongoDB Atlas, Aliyun, OpenStack | Elasticsearch, OpenSearch, Kafka, Spark, Flink, Airflow, dbt, MongoDB, Postgres | Kubernetes, Docker, Terraform, Ansible, Prometheus, Grafana, Jenkins, ArgoCD | Python, Java, Go, JavaScript, Bash |
 
 ---
 
