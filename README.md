@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antoine Goze</h1>
+<h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">Senior Cloud & AI Infrastructure Engineer | Solutions & Automation</h3>
 
 ---
